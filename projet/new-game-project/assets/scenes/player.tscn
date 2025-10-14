@@ -105,8 +105,8 @@ speed = 5.0
 jump_power = 8.0
 
 [node name="Camera2D" type="Camera2D" parent="."]
-offset = Vector2(0, -15)
-zoom = Vector2(6, 6)
+offset = Vector2(0, -10)
+zoom = Vector2(5, 5)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -7)
