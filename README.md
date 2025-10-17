@@ -3,7 +3,7 @@ tp2 programation ludique, Vasile Dominique Sulici.
 
 ## - Jeux platformer simple
 
-# - CONTROLE
+# - CONTROLS
 -            W - SAUTER
 -            A - GAUCHE
 -            D - DROITE
